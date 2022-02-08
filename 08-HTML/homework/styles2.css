@@ -1,0 +1,32 @@
+body{
+    margin-block-start: 70px;
+}
+h1{
+    display: inline;
+    position: fixed;
+    top: 0;
+    right: 10;
+    font-size: 25px;
+    background-color: white;
+}
+img {
+    border: 1px solid grey;
+    width: 150px;
+    height: auto;
+    margin: 10px;
+}
+h4{
+    background-color: #8CCBEC;
+}
+#divClass{
+    background-color: #E7E7E7;
+    border: 1px solid grey;
+    margin: 10px;
+    padding: 5px;
+}
+.carreer{
+    background-color: #E7E7E7;
+    border: 1px solid grey;
+    margin: 10px;
+    padding: 5px;
+}
